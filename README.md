@@ -1,3 +1,3 @@
 # fake-project
 
-preview at aliciachen10.github.io/fake-project/
+preview at http://aliciachen10.github.io/fake-project/
